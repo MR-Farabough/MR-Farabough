@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**Michael-lgtm/Michael-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, my name is Michael 👋
 
-Here are some ideas to get you started:
+## 🛠 Skills
+HTML, CSS, JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am currently following The Odin Project curriculum
+- Projects have certain tasks / functionality
+- They are not meant to be finished projects
+
+<img src="https://bloximages.chicago2.vip.townnews.com/normantranscript.com/content/tncms/assets/v3/editorial/c/78/c78fcb18-4177-11e7-987f-9b16e41ba9be/59272222e5100.image.jpg?resize=1200%2C900" width="50px" /> Majoring in Computer Science
+
+### 👩‍💻 I'm currently working on...
+
+- Asynchronous JavaScript & API's
+
+### 📫 How to reach me...
+
+> Email: `mrfarabough@gmail.com`
