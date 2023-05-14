@@ -14,7 +14,7 @@ I am currently following The Odin Project curriculum
 
 ### 👩‍💻 I'm currently working on...
 
-- Asynchronous JavaScript & API's
+- Linked Lists & Binary Link Trees
 
 ### 📫 How to reach me...
 
