@@ -14,7 +14,7 @@ I am currently following The Odin Project curriculum
 
 ### 👩‍💻 I'm currently working on...
 
-- Linked Lists & Binary Link Trees
+- TDD and Battleship
 
 ### 📫 How to reach me...
 
