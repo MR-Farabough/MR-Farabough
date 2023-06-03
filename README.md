@@ -2,7 +2,7 @@
 # Hi, my name is Michael 👋
 
 ## 🛠 Skills
-HTML, CSS, JavaScript
+HTML, CSS, JavaScript, Jest
 
 ## 🚀 About Me
 
