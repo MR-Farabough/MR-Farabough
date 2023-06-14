@@ -14,7 +14,7 @@ I am currently following The Odin Project curriculum
 
 ### 👩‍💻 I'm currently working on...
 
-- TDD and Battleship
+- React!
 
 ### 📫 How to reach me...
 
