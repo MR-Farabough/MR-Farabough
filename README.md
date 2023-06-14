@@ -14,7 +14,7 @@ I am currently following The Odin Project curriculum
 
 ### 👩‍💻 I'm currently working on...
 
-- React!
+- React & TypeScript
 
 ### 📫 How to reach me...
 
