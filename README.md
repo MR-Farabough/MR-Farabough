@@ -2,7 +2,7 @@
 # Hi, my name is Michael 👋
 
 ## 🛠 Skills
-JavaScript, Jest, Web Development
+TypeScript, React, JavaScript, Jest, Web Development
 
 ## 🚀 About Me
 
@@ -18,7 +18,7 @@ I am currently following The Odin Project curriculum
 
 ### 👩‍💻 I'm currently working on...
 
-- React & TypeScript
+- Backend Development using Firebase
 
 ### 📫 How to reach me...
 
