@@ -18,7 +18,7 @@ I am currently following The Odin Project curriculum
 
 ### 👩‍💻 I'm currently working on...
 
-- Backend Development using Firebase
+- A blog posting site
 
 ### 📫 How to reach me...
 
